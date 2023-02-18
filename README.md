@@ -1,6 +1,6 @@
 <span align="center">
 
-##  Land-Page apresentação 2.0 👋 
+##  Relogio Digital 1.0 "Estudos" 👋 
 
 </span>
 
@@ -27,4 +27,5 @@
   <a href="https://www.buymeacoffee.com/walissonsoares" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
 
-![portfolio-3](https://user-images.githubusercontent.com/26144781/203675843-aaf6667f-b6d5-49e5-9a1c-e047de64f10c.jpg)
+![Capturar](https://user-images.githubusercontent.com/26144781/219902505-634292b8-5300-4acb-a58d-0abb5cc84b32.JPG)
+
